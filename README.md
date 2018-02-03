@@ -19,5 +19,5 @@ This software has an MIT License. All forks of this codebase have my authorizati
 
 ## Donations
 
-Donation can be made by Bitcoin to         15SHnY7HC5bTxzErHDPe7wHXj1HhtDKV7z (for hwki)
+Donation can be made by Bitcoin to         15SHnY7HC5bTxzErHDPe7wHXj1HhtDKV7z (for hwki) <br>
 Donation can be made by Philospherstone to                                    (for toxtox)
