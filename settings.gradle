@@ -1,0 +1,2 @@
+//include ':app', ':philosopherstone', ':cryptowidget'
+include ':philosopherstone', ':cryptowidget'
