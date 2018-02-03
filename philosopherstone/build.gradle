@@ -5,11 +5,11 @@ android {
     buildToolsVersion '26.0.2'
 
     defaultConfig {
-        applicationId "com.brentpanther.philosopherstonewidget"
+        applicationId "com.toxtox.philosopherstonewidget"
         minSdkVersion 17
         targetSdkVersion 26
-        versionCode 33
-        versionName "1.4.1"
+        versionCode 1
+        versionName "0.1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     testOptions {

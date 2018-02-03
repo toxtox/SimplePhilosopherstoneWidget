@@ -1,6 +1,6 @@
 # SimplePhilosopherstoneWidget
 
-Clean looking, simple cryptocurrency widgets for Android based on hwki's SimpleBitcoinWidget
+Clean looking, simple cryptocurrency widget for Android based on hwki's SimpleBitcoinWidget
 
 
 ## Simple Philosopherstone Widget
