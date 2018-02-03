@@ -21,3 +21,9 @@ This software has an MIT License. All forks of this codebase have my authorizati
 
 Donation can be made by Bitcoin to         15SHnY7HC5bTxzErHDPe7wHXj1HhtDKV7z (for hwki) <br>
 Donation can be made by Philospherstone to 9ohz1ceijxuSFbjCqr6k9eGgQWoZ9842xr (for toxtox)
+
+## Links
+Website: 	http://philosopherstones.org
+Explorer: 	http://philosopherstones.org/block/
+Launch Forum: https://bitcointalk.org/index.php?topic=830427.0
+Exchange:   https://www.cryptopia.co.nz
