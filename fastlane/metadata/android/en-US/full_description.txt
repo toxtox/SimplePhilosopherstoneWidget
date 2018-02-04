@@ -1,16 +1,16 @@
 SimplePhilosopherstoneWidget
 
 is for tracking continuously the Philosopherstone price on your mobile phone.
-(Philosopherstone is a crypto coin like Bitcoin, Ethereum,... but with POS!)
+(Philosopherstone is a crypto coin like Bitcoin, Litecoin, Ethereum,... but with POS! [POS = proof of stake])
 SimplePhilosopherstoneWidget gets the prices directly from supported exchanges (currently only https://www.cryptopia.co.nz).
 
 
 What are Philospherstones?
 
-PhilosopherStone is a cryptocurrency that provides an annual stake rate of 50% (64% Compounded), or 3.44% monthly, for contributing to the network.
-Reward halving September 2019 to 25% and September 2021 to 12,5%.
+PhilosopherStone is a cryptocurrency that provides an annual stake rate of 50% (64% Compounded), or 3.44% monthly, for keeping the stones in your wallet (POS).
+Reward halving on September 2019 to 25% and on September 2021 to 12,5%.
 You will receive additional stones as reward "for free" if you do not move your stones for more than ~8.8 Days.
-(Time can be longer if your total stake weight [amount of stones] compared to the network weight is low [see green dot on the lower right of your wallet])
+(Time can be longer if your total stake weight [=amount of stones x time] compared to the network weight is low [see green dot on the lower right of your wallet])
 
 - high profit (50% p.a.): even at constant coin price due to high annual stake rate
 - fair:                   no pre-mine, No IPOs, No ICOs   (The intial distribution took 10 months with Proof-of-Work Scrypt algorithm before Scrypt ASICs.)
