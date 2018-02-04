@@ -27,3 +27,5 @@ Explorer: http://philosopherstones.org/block/
 Launch Forum: https://bitcointalk.org/index.php?topic=830427.0
 Windows + Mac wallets:              https://github.com/philosopherstonecoin/philosopherstone/releases
 Raspberry Pi + Linux 64bit wallets: https://github.com/toxtox/philosopherstone/releases
+
+(The source code is based on hwki's "SimpleBitcoinWidget")
