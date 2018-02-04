@@ -12,10 +12,13 @@ public class DeprecationHelper {
 
     public static void showDialog(final Activity activity) {
         AlertDialog.Builder builder = new AlertDialog.Builder(activity)
-                .setTitle("Warning")
-                .setMessage("This app is no longer being supported. You can create a new widget with the Simple Bitcoin Widget app, which now supports many different coins.")
-                .setNegativeButton("Dismiss", null);
-        try {
+                //.setTitle("Warning")
+                .setTitle("NOTE:")
+                //.setMessage("This app is no longer being supported. You can create a new widget with the Simple Bitcoin Widget app, which now supports many different coins.")
+                .setMessage("This app will be integrated eventually in the 'Simple Bitcoin Widget' app, which already supports many different coins.")
+                //.setNegativeButton("Dismiss", null);
+                .setNegativeButton("OK", null);
+        /*try {
             activity.getPackageManager().getPackageInfo("com.brentpanther.bitcoinwidget", 0);
         } catch (PackageManager.NameNotFoundException e) {
             builder.setPositiveButton("Download", new DialogInterface.OnClickListener() {
@@ -27,7 +30,7 @@ public class DeprecationHelper {
                     activity.finish();
                 }
             });
-        }
+        }*/
         builder.show();
     }
 
