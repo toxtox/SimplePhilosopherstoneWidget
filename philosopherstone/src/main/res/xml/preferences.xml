@@ -48,7 +48,7 @@
         android:key="@string/key_theme"
         android:persistent="false"
         android:title="@string/title_theme" />
-    <Preference
+     <Preference
         android:key="@string/key_rate"
         android:persistent="false"
         android:summary="@string/summary_rate"
