@@ -1,15 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 26
-    buildToolsVersion '26.0.2'
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
     defaultConfig {
         applicationId "com.toxtox.philosopherstonewidget"
-        minSdkVersion 15
-        targetSdkVersion 15
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        targetSdkVersion 15
+        minSdkVersion 15
     }
     testOptions {
         unitTests.returnDefaultValues = true
