@@ -16,11 +16,12 @@ You will receive additional stones as reward "for free" if you do not move your 
 (Time can be longer if your total stake weight [=amount of stones x time] compared to the network weight is low [see green dot on the lower right of your wallet])
 
 * '''high profit''' (50% p.a.): even at constant coin price due to high annual stake rate
+* '''rare''':                   less then 7 million stones in total (Feb. 2018)
 * '''fair''':                   no pre-mine, No IPOs, No ICOs   (The intial distribution took 10 months with Proof-of-Work Scrypt algorithm before Scrypt ASICs.)
 * '''environmental friendly''': green minting instead of mining (Proof-of-stake algorithm guaranties low power consumption and operating costs for minters.)
-* '''fast transactions''':      200 sec block time
+* '''faster transactions''':    200 sec block time
 * '''transaction messages'''
-* '''Coin Control Feature''':   user can manually select input adresses for sending PHS (e.g. for no loosing to much stake weight)
+* '''Coin Control Feature''':   user can manually select input addresses for sending PHS (e.g. for not loosing to much stake weight)
 * '''running since 2013!''':    Launched 27 of July 2013
 * and much more
 
@@ -32,4 +33,5 @@ Windows + Mac wallets:[https://github.com/philosopherstonecoin/philosopherstone/
 Raspberry Pi + Linux 64bit wallets:[https://github.com/toxtox/philosopherstone/releases]
 
 (The source code is based on hwki's ''SimpleBitcoinWidget'')
+Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (even including the description above) on other APP-Stores, too (e.g. google playstore and others...)
 .
