@@ -33,5 +33,5 @@ Windows + Mac wallets:[https://github.com/philosopherstonecoin/philosopherstone/
 Raspberry Pi + Linux 64bit wallets:[https://github.com/toxtox/philosopherstone/releases]
 
 (The source code is based on hwki's ''SimpleBitcoinWidget'')
-Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (even including the description above) on other APP-Stores, too (e.g. google playstore and others...)
+Everyone is welcome to publish the '''SimplePhilosopherstoneWidget''' (including the description above) on other APP-Stores, too (e.g. google playstore and others...)
 .
