@@ -24,4 +24,4 @@ Donation can be made by Philospherstone to 9ohz1ceijxuSFbjCqr6k9eGgQWoZ9842xr (f
 Website: 	http://philosopherstones.org <br>
 Explorer: 	http://philosopherstones.org/block/ <br>
 Launch Forum: https://bitcointalk.org/index.php?topic=830427.0 <br>
-Exchange:   https://www.cryptopia.co.nz <br>
+Exchange:   https://freiexchange.com <br>
