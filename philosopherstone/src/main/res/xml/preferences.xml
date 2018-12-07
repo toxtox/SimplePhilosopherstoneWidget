@@ -20,8 +20,8 @@
     <ListPreference
         android:defaultValue="@string/default_currency"
         android:dialogTitle="@string/title_currency"
-        android:entries="@array/currencies_cryptopia"
-        android:entryValues="@array/currencies_cryptopia"
+        android:entries="@array/currencies_freiexchange"
+        android:entryValues="@array/currencies_freiexchange"
         android:key="@string/key_currency"
         android:persistent="false"
         android:title="@string/title_currency" />

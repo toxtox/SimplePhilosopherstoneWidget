@@ -11,6 +11,6 @@
     <string name="key_decimals">decimals</string>
     <string name="default_refresh_interval">30</string>
     <string name="default_currency">BTC</string>
-    <string name="default_provider">CRYPTOPIA</string>
+    <string name="default_provider">FREIEXCHANGE</string>
     <string name="default_theme">Light</string>
 </resources>

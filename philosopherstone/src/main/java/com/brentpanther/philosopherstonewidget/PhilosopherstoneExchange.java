@@ -14,11 +14,11 @@ import static com.brentpanther.cryptowidget.ExchangeHelper.getJSONObject;
 
 enum PhilosopherstoneExchange implements Exchange {
 
-    CRYPTOPIA(R.array.currencies_cryptopia, "cryptopia") {
+    FREIEXCHANGE(R.array.currencies_freiexchange, "freiexchange") {
         @Override
         public String getValue(String currencyCode) throws Exception {
-            JSONObject obj = getJSONObject("https://www.cryptopia.co.nz/api/GetMarket/PHS_BTC");
-            return obj.getJSONObject("Data").getString("LastPrice");
+            JSONObject obj = getJSONObject("https://freiexchange.com/api/public/PHS");
+            return obj.getJSONObject("public").getString("last");
         }
     },
 /*
@@ -158,8 +158,8 @@ enum PhilosopherstoneExchange implements Exchange {
     POLONIEX(R.array.currencies_poloniex, "poloniex") {
         @Override
         public String getValue(String currencyCode) throws Exception {
-            JSONObject obj = getJSONObject("https://www.cryptopia.co.nz/api/GetMarket/PHS_BTC");
-            return obj.getJSONObject("Data").getString("LastPrice");
+            JSONObject obj = getJSONObject("https://freiexchange.com/api/public/PHS");
+            return obj.getJSONObject("public").getString("last");
         }
     },
     /*

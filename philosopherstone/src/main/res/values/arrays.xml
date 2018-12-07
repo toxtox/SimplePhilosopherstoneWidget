@@ -89,7 +89,7 @@
     <string-array name="currencies_coinnest">
         <item>KRW</item>
     </string-array>
-    <string-array name="currencies_cryptopia">
+    <string-array name="currencies_freiexchange">
         <item>BTC</item>
     </string-array>
     <string-array name="currencies_phsexindia">
@@ -152,7 +152,7 @@
         <item>CEXIO</item>
         <item>COINBASE</item>
         <item>COINNEST</item>
-        <item>CRYPTOPIA</item>
+        <item>FREIEXCHANGE</item>
         <item>ETHEXINDIA</item>
         <item>GATECOIN</item>
         <item>GEMINI</item>
@@ -175,7 +175,7 @@
         <item>Cex.io</item>
         <item>Coinbase</item>
         <item>Coinnest</item>
-        <item>Cryptopia</item>
+        <item>Freiexchange</item>
         <item>EthexIndia</item>
         <item>Gatecoin</item>
         <item>Gemini</item>
