@@ -17,8 +17,12 @@ enum PhilosopherstoneExchange implements Exchange {
     FREIEXCHANGE(R.array.currencies_freiexchange, "freiexchange") {
         @Override
         public String getValue(String currencyCode) throws Exception {
-            JSONObject obj = getJSONObject("https://freiexchange.com/api/public/PHS");
-            return obj.getJSONObject("public").getString("last");
+            JSONArray PHS_BTC = getJSONObject("https://api.freiexchange.com/public/phs").getJSONArray("PHS_BTC");
+            for (int i = 0; i < PHS_BTC.length(); i++) {
+                String obj = PHS_BTC.getJSONObject(i).getString("last");
+                return obj;
+            }
+            return null;
         }
     },
 /*
